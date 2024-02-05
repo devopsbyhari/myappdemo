@@ -1,4 +1,4 @@
-Welcome to Devops!!
+Welcome to ContinuesIntegration!!
 welcome to GIT
 welcome to maven
 welcome to jenkins
